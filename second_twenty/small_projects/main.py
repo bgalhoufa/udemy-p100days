@@ -1,6 +1,6 @@
-from question_model import Question
+from second_twenty.ex33_quiz_game.question_model import Question
 from data import question_data
-from quiz_brain import QuizBrain
+from second_twenty.ex33_quiz_game.quiz_brain import QuizBrain
 
 question_bank = []
 
